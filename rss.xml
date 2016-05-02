@@ -4,7 +4,7 @@
         <description><![CDATA[Lolalita]]></description>
         <link>https://thegrid.ai/lolalita/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 21:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 21:29:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lolalita/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lolalita/796892d6-aa15-4d0d-b6ae-90dccc532d63/index.html</link>
             <guid isPermaLink="false">796892d6-aa15-4d0d-b6ae-90dccc532d63</guid>
             <pubDate>Mon, 02 May 2016 20:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-mia1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12472657_1023204917733533_466435011842204437_n.jpg?oh=fc4d2e29825a80bc765032ddbebcecd2&oe=57AA50B5">]]></description>
+            <link>https://thegrid.ai/lolalita/1b1bae2c-be48-4fe6-a3a3-190f2fcb7b20/index.html</link>
+            <guid isPermaLink="false">1b1bae2c-be48-4fe6-a3a3-190f2fcb7b20</guid>
+            <pubDate>Mon, 02 May 2016 21:29:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lolalita/beautiful-sunset-in-the-british-virgin-islands-from-yacht-lo/index.html</link>
             <guid isPermaLink="false">9fd77111-139f-4068-99a9-9ad95986a539</guid>
             <pubDate>Mon, 02 May 2016 19:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16afd531-93fd-4fab-8591-71b0a3d75294.jpg">]]></description>
-            <link>https://thegrid.ai/lolalita/yacht-lolalitas-crew-ready-for-a-saba-island-hike/index.html</link>
-            <guid isPermaLink="false">5d8c6a09-57c6-4543-85fc-2ea8b248fc99</guid>
-            <pubDate>Mon, 02 May 2016 19:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
