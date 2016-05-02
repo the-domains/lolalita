@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Yacht Lolalita's crew ready for a Saba Island hike."
-datePublished: '2016-05-02T19:25:12.407Z'
-dateModified: '2016-05-02T19:24:24.994Z'
+datePublished: '2016-05-02T21:36:16.711Z'
+dateModified: '2016-05-02T21:35:56.975Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-yacht-lolalitas-crew-ready-for-a-saba-island-hike.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-yacht-lolalitas-crew-ready-for-a-saba-island-hike.md
-published: true
 url: yacht-lolalitas-crew-ready-for-a-saba-island-hike/index.html
 _type: Article
 
