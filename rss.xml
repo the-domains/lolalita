@@ -4,7 +4,7 @@
         <description><![CDATA[Lolalita]]></description>
         <link>https://thegrid.ai/lolalita/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 20:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 20:58:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lolalita/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lolalita/796892d6-aa15-4d0d-b6ae-90dccc532d63/index.html</link>
             <guid isPermaLink="false">796892d6-aa15-4d0d-b6ae-90dccc532d63</guid>
             <pubDate>Mon, 02 May 2016 20:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa4642ba-a279-4956-bf0e-c46b81240db2.jpg">]]></description>
+            <link>https://thegrid.ai/lolalita/4642447f-6aea-49ef-9550-f9a29910d254/index.html</link>
+            <guid isPermaLink="false">4642447f-6aea-49ef-9550-f9a29910d254</guid>
+            <pubDate>Mon, 02 May 2016 20:57:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lolalita/yacht-lolalitas-crew-ready-for-a-saba-island-hike/index.html</link>
             <guid isPermaLink="false">5d8c6a09-57c6-4543-85fc-2ea8b248fc99</guid>
             <pubDate>Mon, 02 May 2016 19:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0d7823-4779-4bab-9904-9d5fd91bf39a.jpg">]]></description>
-            <link>https://thegrid.ai/lolalita/yacht-lolalita-is-moored-in-front-of-isle-pain-de-sucre-st/index.html</link>
-            <guid isPermaLink="false">3772bd2b-b716-46d7-bc2c-8e77e0aeafbf</guid>
-            <pubDate>Mon, 02 May 2016 19:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
