@@ -1,0 +1,28 @@
+name: Lolalita
+favicon: null
+layout_spectrum: 0.9452110812999308
+typography_spectrum: 0.2611989020369947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4200493616517633
+  lightness: 0.46419119508937
+  saturation: 0.41839465615339577
+  rhythmicContrast: 0.5324054576922208
+purpose: []
