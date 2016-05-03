@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lolalita]]></title>
-        <description><![CDATA[Lolalita]]></description>
+        <title><![CDATA[65-ft Privilege Catamaran - providing luxury sailing and diving vacations through the Caribbean - creating lasting memories for friends and families. ]]></title>
+        <description><![CDATA[65-ft Privilege Catamaran - providing luxury sailing and diving vacations through the Caribbean - creating lasting memories for friends and families. ]]></description>
         <link>https://thegrid.ai/lolalita/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 21:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:42:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lolalita/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lolalita/796892d6-aa15-4d0d-b6ae-90dccc532d63/index.html</link>
             <guid isPermaLink="false">796892d6-aa15-4d0d-b6ae-90dccc532d63</guid>
             <pubDate>Mon, 02 May 2016 20:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed0d5e2170690f8489aca0846fac1e01329b9114.jpg" alt="" title="">]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=1043038612416830&amp;set=a.500364440017586.1073741825.100001321027821&amp;type=3&amp;theater</link>
+            <guid isPermaLink="false">bbf96835-1124-439e-857b-002ba5d69ee6</guid>
+            <pubDate>Tue, 03 May 2016 13:40:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lolalita/dinner-for-16-no-problem-for-megan/index.html</link>
             <guid isPermaLink="false">c36c3a3a-cc28-41e1-8f6e-5f66a6d6625d</guid>
             <pubDate>Mon, 02 May 2016 20:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf46a7c-27d0-4185-8aea-e6f5a099a493.jpg">]]></description>
-            <link>https://thegrid.ai/lolalita/54ecaf3e-92f2-4c00-8f27-ebc87e28c3ca/index.html</link>
-            <guid isPermaLink="false">54ecaf3e-92f2-4c00-8f27-ebc87e28c3ca</guid>
-            <pubDate>Mon, 02 May 2016 20:34:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
